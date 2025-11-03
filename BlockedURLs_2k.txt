@@ -938,3 +938,5 @@ zebratechnologies.demdex.net
 zz43160scr.pub.tappx.com
 deff.nelreports.net
 aefd.nelreports.net
+tzm.px-cloud.net
+px-cloud.net
