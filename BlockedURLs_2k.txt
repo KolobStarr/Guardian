@@ -940,3 +940,5 @@ deff.nelreports.net
 aefd.nelreports.net
 tzm.px-cloud.net
 px-cloud.net
+m365.cloud.microsoft
+msftconnecttest.com
