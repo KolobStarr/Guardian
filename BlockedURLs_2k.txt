@@ -940,8 +940,6 @@ deff.nelreports.net
 aefd.nelreports.net
 tzm.px-cloud.net
 px-cloud.net
-roaming.svc.cloud.microsoft
-m365.cloud.microsoft
-cloud.microsoft
-msftconnecttest.com
-connectivity-test.static.microsoft
+r.msftstatic.com
+msftstatic.com
+
